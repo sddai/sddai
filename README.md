@@ -1,8 +1,8 @@
-[![Anurag's github stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=sddai&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/sddai/)
+[![stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=sddai&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/sddai/)
 <br>
 [![Top Langs](https://github-readme-stats-izh7piylk.vercel.app/api/top-langs/?username=sddai&langs_count=8&card_width=495&bg_color=DEG,A65481,E66345&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/sddai/)
 <br>
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sddai)](https://github.com/sddai/)-->
+<!--[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sddai)](https://github.com/sddai/)-->
 <!--
 **sddai/sddai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
