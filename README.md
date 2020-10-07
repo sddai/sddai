@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
 
-
+![Android](https://img.shields.io/badge/-Android-grey?style=for-the-badge&logo=Android&logoColor=white&labelColor=8E2DE2)
 
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 
