@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+
 ![CPP](https://img.shields.io/badge/-CPP-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
 ![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-grey?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=8E2DE2)
