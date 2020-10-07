@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/><br>
-<a href="https://www.facebook.com/sida.dai.86" target="_blank"><img src="https://img.shields.io/badge/facebook%20@sida.dai.86-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
-<a href="https://twitter.com/Gracefulling/" target="_blank"><img src="https://img.shields.io/badge/twitter%20@Gracefulling-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
-<a href="https://www.cnblogs.com/sddai/" target="_blank"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20https://www.cnblogs.com/sddai/-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a><br>
-
-
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
@@ -45,3 +39,10 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![javascript](https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+
+
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/><br>
+<a href="https://www.facebook.com/sida.dai.86" target="_blank"><img src="https://img.shields.io/badge/facebook%20@sida.dai.86-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
+<a href="https://twitter.com/Gracefulling/" target="_blank"><img src="https://img.shields.io/badge/twitter%20@Gracefulling-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
+<a href="https://www.cnblogs.com/sddai/" target="_blank"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20https://www.cnblogs.com/sddai/-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a><br>
+
