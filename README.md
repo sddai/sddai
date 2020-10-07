@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/facebook%20@sida.dai.86-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/twitter%20@Gracefulling-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://savio.works/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20https://www.cnblogs.com/sddai/-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+* <a target="_blank" href="https://www.facebook.com/sida.dai.86"><img src="https://img.shields.io/badge/facebook%20@sida.dai.86-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+* <a target="_blank" href="https://twitter.com/Gracefulling/"><img src="https://img.shields.io/badge/twitter%20@Gracefulling-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+* <a target="_blank" href="https://www.cnblogs.com/sddai/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20https://www.cnblogs.com/sddai/-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
