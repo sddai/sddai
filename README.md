@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/Gracefulling/" target="_blank"><img src="https://img.shields.io/badge/twitter%20@Gracefulling-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
 <a href="https://www.cnblogs.com/sddai/" target="_blank"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20https://www.cnblogs.com/sddai/-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a><br>
 
+
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 
 ![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
 
-![MATLAB](https://img.shields.io/badge/-MATLAB-grey?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=8E2DE2)
+
 
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 
