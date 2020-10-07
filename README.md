@@ -25,12 +25,21 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+
 ![CPP](https://img.shields.io/badge/-CPP-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
+
 ![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
+
 ![MATLAB](https://img.shields.io/badge/-MATLAB-grey?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=8E2DE2)
+
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
+
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+
 
