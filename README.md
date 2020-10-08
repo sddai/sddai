@@ -1,3 +1,4 @@
+# My Status
 [![stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=sddai&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/sddai/)
 <br>
 [![Top Langs](https://github-readme-stats-izh7piylk.vercel.app/api/top-langs/?username=sddai&langs_count=10&card_width=495&bg_color=DEG,A65481,E66345&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/sddai/)
@@ -18,7 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://raw.githubusercontent.com/sddai/sddai/master/skills.png">
+<!--
+<img align="center" src="https://raw.githubusercontent.com/sddai/sddai/master/skills.png">-->
+
+# My Skills
 
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![CPP](https://img.shields.io/badge/-CPP-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
@@ -39,7 +43,8 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![javascript](https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 
-<img align="center" src="https://raw.githubusercontent.com/sddai/sddai/master/connect.png"/><br>
+<!--<img align="center" src="https://raw.githubusercontent.com/sddai/sddai/master/connect.png"/><br>-->
+# Contact Me
 <a href="https://www.facebook.com/sida.dai.86" target="_blank"><img src="https://img.shields.io/badge/facebook%20@sida.dai.86-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
 <a href="https://twitter.com/Gracefulling/" target="_blank"><img src="https://img.shields.io/badge/twitter%20@Gracefulling-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
 <a href="https://www.cnblogs.com/sddai/" target="_blank"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20https://www.cnblogs.com/sddai/-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a><br>
