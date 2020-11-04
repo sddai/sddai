@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![opencv](https://img.shields.io/badge/-opencv-grey?style=for-the-badge&logo=opencv&logoColor=white&labelColor=8E2DE2)
 ![caffe](https://img.shields.io/badge/-caffe-grey?style=for-the-badge&logo=caffe&logoColor=white&labelColor=8E2DE2)
 ![tensorflow](https://img.shields.io/badge/-tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=8E2DE2)
+![pytorch](https://img.shields.io/badge/-pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=8E2DE2)
 
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
