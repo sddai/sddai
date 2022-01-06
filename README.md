@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 # Contact Me
 <a href="https://www.facebook.com/sida.dai.86" target="_blank"><img src="https://img.shields.io/badge/facebook%20@sida.dai.86-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
 <a href="https://twitter.com/Gracefulling/" target="_blank"><img src="https://img.shields.io/badge/twitter%20@Gracefulling-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
-<a href="https://www.cnblogs.com/sddai/" target="_blank"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20https://www.cnblogs.com/sddai/-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a><br>
+<a href="https://sddai.github.io" target="_blank"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20https://sddai.github.io/-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a><br>
 
