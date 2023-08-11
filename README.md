@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 # My Skills
 
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-<!--
-![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
-![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
--->
+<!--![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
+![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)-->
 ![Android](https://img.shields.io/badge/-Android-grey?style=for-the-badge&logo=Android&logoColor=white&labelColor=8E2DE2)
 ![matlab](https://img.shields.io/badge/-matlab-grey?style=for-the-badge&logo=matlab&logoColor=white&labelColor=8E2DE2)
 
